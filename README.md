@@ -1,11 +1,16 @@
 ### Hi there 👋🏼
 
-## I'm Antony A. Benites👨‍💻
+I'm Antony A. Benites👨‍💻
 
-### Software Developer | IT Infrastructure & Support
-    
-[![Website](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-miportfoliov1-4c5861?style=for-the-badge)](https://antwny.github.io/mi-portafolio-v1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-a-benites-b2b16b1ab/) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antwnyab@gmail.com)
-<br/>
+----------
+
+<h3> 🤓 About Me </h3> 
+Software Developer | IT Infrastructure & Support
+
+----------
+
+
+
 
 #### Languages & Frameworks
 
@@ -24,12 +29,6 @@
 ![Cisco](https://img.shields.io/badge/Cisco-049BDB?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-🛡️-red?style=for-the-badge)
 
-----------
-
-<h3> 🤓 About Me </h3> 
-
-----------
-
 <h3>🌐 Let's Connect</h3> 
 
 <div>
@@ -46,8 +45,6 @@ I'm always excited to collaborate on interesting projects or discuss new technol
 
 <div align="center">
 
-### 👨‍💻 Thank you for visiting!
-
-*"Siuuuuuuuu."* 
+### 👨‍💻 Thank you for visiting! 
 
 _Made by [antwny](https://github.com/antwny)_
