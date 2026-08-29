@@ -12,7 +12,7 @@
 
 <br>
 
-[![Portafolio](https://img.shields.io/badge/PORTAFOLIO-VER%20EXPERIENCIA-FF2A00?style=for-the-badge&logo=safari&logoColor=white&labelColor=050505)](https://antwny.github.io/](https://antwny.github.io/portafolio-v2/))
+[![Portafolio](https://img.shields.io/badge/PORTAFOLIO-VER%20EXPERIENCIA-FF2A00?style=for-the-badge&logo=safari&logoColor=white&labelColor=050505)](https://antwny.github.io/portafolio-v2/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-antony--a--benites-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505)](https://pe.linkedin.com/in/antony-a-benites-b2b16b1ab)
 [![GitHub](https://img.shields.io/badge/GITHUB-antwny-F5F5F5?style=for-the-badge&logo=github&logoColor=050505&labelColor=050505)](https://github.com/antwny)
 [![Correo](https://img.shields.io/badge/CORREO-antwnyab%40gmail.com-FF2A00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505)](mailto:antwnyab@gmail.com)
