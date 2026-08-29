@@ -12,14 +12,14 @@
 
 <br>
 
-[![Portafolio](https://img.shields.io/badge/PORTAFOLIO-VER%20EXPERIENCIA-FF2A00?style=for-the-badge&logo=safari&logoColor=white&labelColor=050505)]([https://antwny.github.io/](https://antwny.github.io/portafolio-v2/))
+[![Portafolio](https://img.shields.io/badge/PORTAFOLIO-VER%20EXPERIENCIA-FF2A00?style=for-the-badge&logo=safari&logoColor=white&labelColor=050505)](https://antwny.github.io/](https://antwny.github.io/portafolio-v2/))
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-antony--a--benites-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505)](https://pe.linkedin.com/in/antony-a-benites-b2b16b1ab)
 [![GitHub](https://img.shields.io/badge/GITHUB-antwny-F5F5F5?style=for-the-badge&logo=github&logoColor=050505&labelColor=050505)](https://github.com/antwny)
 [![Correo](https://img.shields.io/badge/CORREO-antwnyab%40gmail.com-FF2A00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505)](mailto:antwnyab@gmail.com)
 
 <br>
 
-**[ `01 IDENTIDAD` ](#-01--identidad--manifiesto)** · **[ `02 PROYECTOS` ](#-02--casos-de-estudio-arquitectónicos-proyectos-destacados)** · **[ `03 ARCHIVO` ](#-03--archivo-experimental--investigación)** · **[ `04 TECNOLOGÍAS` ](#-04--arsenal-tecnológico)** · **[ `05 TELEMETRÍA` ](#-05--actividad--telemetría-de-github)** · **[ `06 CONTACTO` ](#-06--contacto--colaboración)**
+**[ `01 IDENTIDAD` ](#-01--identidad--manifiesto)** · **[ `02 PROYECTOS` ](#-02--casos-de-estudio-arquitectónicos-proyectos-destacados)**  · **[ `03 TECNOLOGÍAS` ](#-04--arsenal-tecnológico)** · **[ `04 TELEMETRÍA` ](#-05--actividad--telemetría-de-github)** · **[ `05 CONTACTO` ](#-06--contacto--colaboración)**
 
 ---
 
@@ -114,19 +114,7 @@ Single Page Application de comercio electrónico con catálogo interactivo por c
 
 ---
 
-## `// 03 — ARCHIVO EXPERIMENTAL & INVESTIGACIÓN`
-
-| Índice | Proyecto / Experimento | Área de Enfoque | Stack Tecnológico | Enlace |
-| :---: | :--- | :--- | :--- | :---: |
-| **`EXP-01`** | **Clínica +Salud v2** | ERP de Escritorio & Evolución de BD (.txt a MySQL) | Java Swing, MySQL, JasperReports, FlatLaf | [Repo ↗](https://github.com/antwny/clinica-salud-v2) |
-| **`EXP-02`** | **Ajedrez LP1** | Arquitectura MVC Nativa en Java | Servlets, JSP & JSTL, JDBC DAO, MySQL | [Repo ↗](https://github.com/antwny/AjedrezLP1) |
-| **`EXP-03`** | **Linux Dotfiles & Herramientas** | Automatización de Entornos UNIX | Arch Linux, Bash Scripting, Ghostty, CLI | [Repo ↗](https://github.com/antwny) |
-| **`EXP-04`** | **maido_db** | Modelado Relacional & Optimización SQL | MariaDB, MySQL, Indexación, Procedimientos | [Repo ↗](https://github.com/antwny) |
-| **`EXP-05`** | **Guía de Arquitectura Backend** | Investigación Técnica & Patrones REST | Python, APIs REST, Principios de Clean Code | [Repo ↗](https://github.com/antwny) |
-
----
-
-## `// 04 — ARSENAL TECNOLÓGICO`
+## `// 03 — ARSENAL TECNOLÓGICO`
 
 <div align="center">
 
@@ -160,7 +148,7 @@ Single Page Application de comercio electrónico con catálogo interactivo por c
 
 ---
 
-## `// 05 — ACTIVIDAD & TELEMETRÍA DE GITHUB`
+## `// 04 — ACTIVIDAD & TELEMETRÍA DE GITHUB`
 
 <div align="center">
 
@@ -172,7 +160,7 @@ Single Page Application de comercio electrónico con catálogo interactivo por c
 
 ---
 
-## `// 06 — CONTACTO & COLABORACIÓN`
+## `// 05 — CONTACTO & COLABORACIÓN`
 
 ```text
   CANAL DE CONTACTO    DESTINO / ENLACE DIRECTO
