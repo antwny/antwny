@@ -19,7 +19,7 @@
 
 <br>
 
-**[ `01 IDENTIDAD` ](#-01--identidad--manifiesto)** · **[ `02 PROYECTOS` ](#-02--casos-de-estudio-arquitectónicos-proyectos-destacados)**  · **[ `03 TECNOLOGÍAS` ](#-04--arsenal-tecnológico)** · **[ `04 TELEMETRÍA` ](#-05--actividad--telemetría-de-github)** · **[ `05 CONTACTO` ](#-06--contacto--colaboración)**
+**[ `01 IDENTIDAD` ](#-01--identidad--manifiesto)** · **[ `02 TECNOLOGÍAS` ](#-04--arsenal-tecnológico)** · **[ `03 TELEMETRÍA` ](#-05--actividad--telemetría-de-github)** · **[ `04 CONTACTO` ](#-06--contacto--colaboración)**
 
 ---
 
@@ -46,75 +46,7 @@
 
 ---
 
-## `// 02 — CASOS DE ESTUDIO ARQUITECTÓNICOS (PROYECTOS DESTACADOS)`
-
-### `01` · [MAIDO SPRING — RESTAURANTE NIKKEI ERP](https://github.com/antwny/maido-spring)
-> **`★ PROYECTO PRINCIPAL`** · `ANGULAR 19` · `SPRING BOOT 4.1` · `JAVA 21` · `MYSQL 8.0` · `JASPERREPORTS` · `REST API`
-
-Plataforma full-stack integral para pedidos en línea y control operativo de un restaurante de gastronomía Nikkei (fusión peruano-japonesa). Diseñado bajo una arquitectura desacoplada en capas con DTOs, seguridad, control de inventario en tiempo real, carrito reactivo persistente en LocalStorage y módulo contable con emisión de reportes ejecutivos en PDF.
-
-* **Arquitectura**: Arquitectura Limpia en Capas (`Controllers`, `DTOs`, `Entities`, `Services`, `JPA Repositories`).
-* **Frontend**: SPA modular en Angular 19 con guards de autenticación, interceptores y catálogo con filtros dinámicos.
-* **Reportería**: Generación y exportación automática de balances de ventas en PDF mediante JasperReports.
-* 🔗 **Repositorio**: [`github.com/antwny/maido-spring`](https://github.com/antwny/maido-spring)
-
-```text
-[ CLIENTE: Angular 19 ] ───( REST API / JSON )───> [ BACKEND: Spring Boot + Java 21 ] ───( JPA / JDBC )───> [ BASE DE DATOS: MySQL 8.0 ]
-                                                                 │
-                                                                 └───> [ Motor JasperReports PDF ]
-```
-
----
-
-### `02` · [PORTAL ANIQUEM — CRM INSTITUCIONAL & SISTEMA CLOUD](https://github.com/antwny/aniquem-portal-mvp)
-> **`★ CASO REAL ONG`** · `REACT` · `TYPESCRIPT` · `VITE` · `GOOGLE APPS SCRIPT` · `GOOGLE SHEETS API` · **`DEMO EN VIVO`**
-
-Plataforma empresarial desarrollada para centralizar alianzas corporativas, agenda institucional y comunicaciones de la fundación Aniquem, eliminando silos de información y sincronizando datos en tiempo real.
-
-* **Integración Cloud**: Sincronización bidireccional mediante Webhooks de Google Apps Script con Google Sheets como persistencia viva.
-* **Automatización**: Agenda inteligente con detección de cruces de horario y generación de enlaces Google Meet en un clic.
-* **Seguridad & Roles**: Control de acceso por roles (RBAC) con sesiones seguras administradas mediante `AuthContext`.
-* 🌐 **Demo en Vivo**: [antwny.github.io/aniquem-portal-mvp](https://antwny.github.io/aniquem-portal-mvp/)
-* 🔗 **Repositorio**: [`github.com/antwny/aniquem-portal-mvp`](https://github.com/antwny/aniquem-portal-mvp)
-
----
-
-### `03` · [MAIDO ASP.NET — ERP GASTRONÓMICO & PLATAFORMA CLOUD](https://github.com/karlahuarcayacar-cell/maido-aspnet)
-> **`★ PROYECTO EN EQUIPO`** · `ASP.NET CORE 10.0` · `C# 13` · `SQL SERVER` · `OPENJSON` · `QUESTPDF` · **`DEMO EN VIVO`**
-
-Sistema web de comercio gastronómico y reportería ejecutiva desplegado activamente en la nube. Desarrollado en equipo colaborativo junto a Karla Huarcaya bajo arquitectura Clean N-Tier.
-
-* **Arquitectura en Capas**: `Maido.Domain`, `Maido.Application`, `Maido.Infrastructure`, `Maido.PLGUI`.
-* **Transacciones Atómicas**: Inserción y validación de órdenes multi-ítem mediante procedimientos almacenados con `OPENJSON`.
-* **Reportería & Cloud**: Generación de reportes con `QuestPDF` y hosting de producción en `Somee.com`.
-* 🌐 **Demo en Vivo**: [maido-aspnet.somee.com](https://maido-aspnet.somee.com/)
-* 🔗 **Repositorio**: [`github.com/karlahuarcayacar-cell/maido-aspnet`](https://github.com/karlahuarcayacar-cell/maido-aspnet)
-
----
-
-### `04` · [EN SU PUNTO — ERP DE RESTAURANTE & SISTEMA OPERATIVO POR ROLES](https://github.com/karlahuarcayacar-cell/ensupunto)
-> **`★ PROYECTO EN EQUIPO`** · `JAVA 17` · `SPRING BOOT 3.X` · `HTMX 1.9` · `THYMELEAF` · `MYSQL 8.0` · `JASPERREPORTS`
-
-Sistema de gestión operativa para restaurantes diseñado con arquitectura desacoplada por roles (**Administrador**, **Mesero**, **Chef** y **Cajero**). Ofrece interactividad fluida tipo SPA sin sobrecarga de JavaScript pesado gracias a **HTMX**.
-
-* **Salón & Mesero**: Mapa interactivo de mesas con cambio de estado físico en vivo (*Libre, En Cola, Preparando, Comiendo, Cuenta Pedida*) y notas de preparación por plato.
-* **Cocina & Chef**: Monitor de comandas en tiempo real priorizadas por orden de llegada y despacho rápido.
-* **Caja & Facturación**: Cobro regular y soporte nativo para **Cuentas Divididas** (*Split Bills* fraccionados entre $N$ clientes).
-* 🔗 **Repositorio**: [`github.com/karlahuarcayacar-cell/ensupunto`](https://github.com/karlahuarcayacar-cell/ensupunto)
-
----
-
-### `05` · [STYLE STORE — BOUTIQUE DE MODA CONTEMPORÁNEA SPA](https://github.com/antwny/Style-Store)
-> **`★ COMERCIO ELECTRÓNICO`** · `REACT` · `JAVASCRIPT` · `GRID MODERNO EN VANILLA CSS` · `RESPONSIVE` · **`DEMO EN VIVO`**
-
-Single Page Application de comercio electrónico con catálogo interactivo por colecciones, búsqueda reactiva por texto, selector dinámico de tallas y flujo de checkout sin fricción.
-
-* 🌐 **Demo en Vivo**: [antwny.github.io/Style-Store](https://antwny.github.io/Style-Store)
-* 🔗 **Repositorio**: [`github.com/antwny/Style-Store`](https://github.com/antwny/Style-Store)
-
----
-
-## `// 03 — ARSENAL TECNOLÓGICO`
+## `// 02 — ARSENAL TECNOLÓGICO`
 
 <div align="center">
 
@@ -148,7 +80,7 @@ Single Page Application de comercio electrónico con catálogo interactivo por c
 
 ---
 
-## `// 04 — ACTIVIDAD & TELEMETRÍA DE GITHUB`
+## `// 03 — ACTIVIDAD & TELEMETRÍA DE GITHUB`
 
 <div align="center">
 
@@ -160,7 +92,7 @@ Single Page Application de comercio electrónico con catálogo interactivo por c
 
 ---
 
-## `// 05 — CONTACTO & COLABORACIÓN`
+## `// 04 — CONTACTO & COLABORACIÓN`
 
 ```text
   CANAL DE CONTACTO    DESTINO / ENLACE DIRECTO
