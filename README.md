@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=FF2A00&center=true&vCenter=true&width=800&lines=Desarrollador+Creativo+%2B+Ingeniero+de+Software;Java+21+%7C+Spring+Boot+%7C+ASP.NET+Core+%7C+C%23;Angular+19+%7C+React+%7C+HTMX+1.9+%7C+TypeScript;Arquitectura+Relacional+%7C+MySQL+8+%7C+SQL+Server;Becario+Patronato+BCP+%7C+Cibertec+Per%C3%BA" alt="Banner Animado Typing" />
 </a>
 
-<br>
-
-`LIMA, PERÚ (GMT-5)` · `CIBERTEC PERÚ` · `COMPUTACIÓN E INFORMÁTICA` · `🏆 BECARIO BCP`
-
-<br>
-
 [![Portafolio](https://img.shields.io/badge/PORTAFOLIO-VER%20EXPERIENCIA-FF2A00?style=for-the-badge&logo=safari&logoColor=white&labelColor=050505)](https://antwny.github.io/portafolio-v2/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-antony--a--benites-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505)](https://pe.linkedin.com/in/antony-a-benites-b2b16b1ab)
 [![GitHub](https://img.shields.io/badge/GITHUB-antwny-F5F5F5?style=for-the-badge&logo=github&logoColor=050505&labelColor=050505)](https://github.com/antwny)
@@ -25,11 +19,9 @@
 
 </div>
 
-## `// 01 — IDENTIDAD & MANIFIESTO`
+## `01 — IDENTIDAD & MANIFIESTO`
 
-> *"Concibo el desarrollo de software no como una simple traducción de requisitos a código, sino como la construcción de sistemas con carácter: donde el rigor arquitectónico del backend convive con una presentación visual deliberada, memorable y de alto rendimiento."*
-
-* 🎓 **Formación Académica**: Estudiante de Computación e Informática en **Cibertec Perú**.
+* 🎓 **Formación Académica**: Estudiante de Computación e Informática en **Cibertec**.
 * 🏆 **Distinción por Excelencia**: Becario del programa **Patronato BCP (Becas BCP)**.
 * 💻 **Especialización**: Arquitecturas desacopladas full-stack, sistemas ERP empresariales y desarrollo frontend reactivo.
 * 🔐 **Líneas de Interés**: Arquitectura de Software, Ciberseguridad, Inteligencia Artificial y Entornos UNIX/Linux.
@@ -46,7 +38,7 @@
 
 ---
 
-## `// 02 — ARSENAL TECNOLÓGICO`
+## `02 — ARSENAL TECNOLÓGICO`
 
 <div align="center">
 
@@ -80,7 +72,7 @@
 
 ---
 
-## `// 03 — ACTIVIDAD & TELEMETRÍA DE GITHUB`
+## `03 — ACTIVIDAD & TELEMETRÍA DE GITHUB`
 
 <div align="center">
 
@@ -92,7 +84,7 @@
 
 ---
 
-## `// 04 — CONTACTO & COLABORACIÓN`
+## `04 — CONTACTO & COLABORACIÓN`
 
 ```text
   CANAL DE CONTACTO    DESTINO / ENLACE DIRECTO
