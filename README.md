@@ -84,7 +84,7 @@ I enjoy moving between the high-level design of enterprise applications and the 
 
 ---
 
-# `05 — GITHUB TELEMETRY`
+# `03 — GITHUB TELEMETRY`
 
 <div align="center">
 
@@ -106,7 +106,7 @@ I enjoy moving between the high-level design of enterprise applications and the 
 
 ---
 
-## `04 — CONTACT & COLLABORATION`
+# `04 — CONTACT & COLLABORATION`
 
 ```text
   CONTACT CHANNEL       DESTINATION / DIRECT LINK
