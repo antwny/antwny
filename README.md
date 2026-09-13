@@ -2,88 +2,105 @@
 
 # `ANTONY A. BENITES`
 
-<a href="https://github.com/antwny">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=FF2A00&center=true&vCenter=true&width=800&lines=Creative+Developer+%2B+Software+Engineer;Java+21+%7C+Spring+Boot+%7C+ASP.NET+Core+%7C+C%23;Angular+19+%7C+React+%7C+HTMX+1.9+%7C+TypeScript;Relational+Architecture+%7C+MySQL+8+%7C+SQL+Server;BCP+Scholarship+Recipient+%7C+Cibertec+Peru" alt="Animated Typing Banner" />
-</a>
+**SOFTWARE ENGINEER · CREATIVE DEVELOPER**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VIEW%20EXPERIENCE-FF2A00?style=for-the-badge\&logo=safari\&logoColor=white\&labelColor=050505)](https://antwny.github.io/portafolio-v2/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-antony--a--benites-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=050505)](https://pe.linkedin.com/in/antony-a-benites-b2b16b1ab)
-[![GitHub](https://img.shields.io/badge/GITHUB-antwny-F5F5F5?style=for-the-badge\&logo=github\&logoColor=050505\&labelColor=050505)](https://github.com/antwny)
-[![Email](https://img.shields.io/badge/EMAIL-antwnyab%40gmail.com-FF2A00?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=050505)](mailto:antwnyab@gmail.com)
+Building software with strong architecture, purposeful interfaces, and a Linux-first mindset.
+
+<a href="https://github.com/antwny">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=FF2A00&center=true&vCenter=true&width=900&lines=Software+Engineer+%2B+Creative+Developer;Java+21+%7C+Spring+Boot+%7C+ASP.NET+Core+%7C+Rust;Angular+19+%7C+React+%7C+Kotlin+%7C+TypeScript;Enterprise+Systems+%7C+Full-Stack+Architecture+%7C+Linux;Software+Architecture+%7C+Cybersecurity+%7C+Open+Source" alt="Animated Typing Banner" />
+</a>
 
 <br>
 
-**[ `01 IDENTITY` ](#-01--identity--manifesto)** · **[ `02 TECHNOLOGIES` ](#-02--technology-arsenal)** · **[ `03 TELEMETRY` ](#-03--github-activity--telemetry)** · **[ `04 CONTACT` ](#-04--contact--collaboration)**
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VIEW%20WORK-FF2A00?style=for-the-badge\&logo=safari\&logoColor=white\&labelColor=050505)](https://antwny.github.io/portafolio-v2/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ANTONY%20A.%20BENITES-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=050505)](https://pe.linkedin.com/in/antony-a-benites-b2b16b1ab)
+[![GitHub](https://img.shields.io/badge/GITHUB-ANTWNY-F5F5F5?style=for-the-badge\&logo=github\&logoColor=050505\&labelColor=050505)](https://github.com/antwny)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-FF2A00?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=050505)](mailto:antwnyab@gmail.com)
 
----
 
-</div>
-
-## `01 — IDENTITY & MANIFESTO`
-
-* 🎓 **Academic Background**: Computer Science and Information Technology student at **Cibertec**.
-* 🏆 **Excellence Distinction**: Scholarship recipient of the **Patronato BCP (BCP Scholarships)** program.
-* 💻 **Specialization**: Decoupled full-stack architectures, enterprise ERP systems, and reactive frontend development.
-* 🔐 **Areas of Interest**: Software Architecture, Cybersecurity, Artificial Intelligence, and UNIX/Linux environments.
-* ⚡ **Methodology**: Modular layered design, clean code, strict ACID transactions, and high-fidelity microinteractions.
-
-```text
-┌────────────────────────┬────────────────────────────────────────────────────────┐
-│ SYSTEM DISCIPLINE      │ Computer Science & Information Technology / Software   │
-│                        │ Engineering                                            │
-│ PRIMARY FOCUS          │ Full-Stack Architecture, ERP Systems & UI Craft        │
-│ WORK ENVIRONMENT       │ Arch Linux / Ghostty / Bash / CLI-Driven Workflow      │
-│ AVAILABILITY           │ Open to High-Impact Projects and Collaborations        │
-└────────────────────────┴────────────────────────────────────────────────────────┘
-```
-
----
-
-## `02 — TECHNOLOGY ARSENAL`
-
-<div align="center">
-
-### ⚙️ Backend & Enterprise Core
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,nodejs,hibernate,maven&perline=8" alt="Backend Technologies" />
-</a>
-
-<br><br>
-
-### 💻 Frontend, Frameworks & Reactive UI
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind,vite,figma&perline=9" alt="Frontend Technologies" />
-</a>
-
-<br><br>
-
-### 🗄 Persistence, Databases & Reporting
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=4" alt="Databases" />
-</a>
-
-<br><br>
-
-### 🖥 Operating Systems, Cloud & Tools
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,idea,visualstudio,vscode,postman&perline=9" alt="Tools and Systems" />
-</a>
+`SOFTWARE` · `ARCHITECTURE` · `LINUX` · `OPEN SOURCE`
 
 </div>
 
 ---
 
-## `03 — GITHUB ACTIVITY & TELEMETRY`
+</div>
+
+# `01 — ABOUT`
+
+I'm **Antony A. Benites**, a Computer Science and Information Technology student focused on building reliable software and exploring modern development ecosystems.
+
+My work sits at the intersection of **software engineering, architecture, frontend experiences, and Linux/Open Source**.
+
+I enjoy moving between the high-level design of enterprise applications and the low-level details that make software fast, maintainable, and enjoyable to use.
+
+### CURRENT FOCUS
+
+* **Software Engineering** — scalable and maintainable application architecture
+* **Full-Stack Development** — backend systems, APIs, databases, and modern frontend
+* **Rust** — native Linux software and systems-oriented development
+* **Kotlin** — Android and modern JVM development
+* **Linux & Open Source** — native applications and Linux desktop ecosystems
+* **Cybersecurity** — secure development and infrastructure fundamentals
+* **Artificial Intelligence** — exploring practical applications of AI in software
+
+---
+
+# `02 — ENGINEERING STACK`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=antwny&show_icons=true&theme=radical&bg_color=050505&title_color=FF2A00&text_color=F5F5F5&icon_color=FF2A00&border_color=242424&hide_border=false&include_all_commits=true&count_private=true" alt="Antony Benites' GitHub Statistics" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antwny&layout=compact&theme=radical&bg_color=050505&title_color=FF2A00&text_color=F5F5F5&border_color=242424&hide_border=false" alt="Top Languages" />
+### `BACKEND & LANGUAGES`
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,rust,cs,dotnet,kotlin,python,nodejs&perline=8" alt="Backend and Programming Languages" />
+</a>
+
+<br><br>
+
+### `FRONTEND & APPLICATION DEVELOPMENT`
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind,vite&perline=8" alt="Frontend Technologies" />
+</a>
+
+<br><br>
+
+### `DATABASES & PERSISTENCE`
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6" alt="Database Technologies" />
+</a>
+
+<br><br>
+
+### `LINUX, DEVOPS & TOOLING`
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,maven,idea,vscode,postman&perline=9" alt="Development Tools and Linux" />
+</a>
+
+</div>
+
+---
+
+# `05 — GITHUB TELEMETRY`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=antwny&show_icons=true&theme=radical&bg_color=050505&title_color=FF2A00&text_color=F5F5F5&icon_color=FF2A00&border_color=242424&hide_border=false&include_all_commits=true&count_private=true" alt="Antony Benites GitHub Statistics" />
+
+  
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antwny&layout=compact&theme=radical&bg_color=050505&title_color=FF2A00&text_color=F5F5F5&border_color=242424&hide_border=false" alt="Most Used Programming Languages" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=antwny&theme=radical&background=050505&ring=FF2A00&fire=FF2A00&currStreakLabel=FF2A00&border=242424" alt="GitHub Contribution Streak" />
 
 </div>
 
