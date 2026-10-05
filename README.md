@@ -22,21 +22,17 @@ Building software with strong architecture, purposeful interfaces, and a Linux-f
 
 # `01 — ABOUT`
 
-I'm **Antony A. Benites**, a Computer Science and Information Technology student focused on building reliable software and exploring modern development ecosystems.
+I'm **Antony A. Benites**, a Computer Science and IT student focused on **software engineering, modern development, Linux, and Open Source**.
 
-My work sits at the intersection of **software engineering, architecture, frontend experiences, and Linux/Open Source**.
-
-I enjoy moving between the high-level design of enterprise applications and the low-level details that make software fast, maintainable, and enjoyable to use.
+I build reliable, maintainable software across **backend, frontend, systems, and native Linux applications**, while exploring emerging technologies.
 
 ### CURRENT FOCUS
 
-* **Software Engineering** — scalable and maintainable application architecture
-* **Full-Stack Development** — backend systems, APIs, databases, and modern frontend
-* **Rust** — native Linux software and systems-oriented development
-* **Kotlin** — Android and modern JVM development
-* **Linux & Open Source** — native applications and Linux desktop ecosystems
-* **Cybersecurity** — secure development and infrastructure fundamentals
-* **Artificial Intelligence** — exploring practical applications of AI in software
+- **Software Engineering** — architecture and scalable applications
+- **Full-Stack Development** — APIs, databases, backend & frontend
+- **Rust & Kotlin** — systems, Linux, Android & JVM development
+- **Linux & Open Source** — native apps and desktop ecosystems
+- **AI** — practical applications in software development
 
 ---
 
