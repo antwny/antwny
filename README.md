@@ -10,14 +10,6 @@ Building software with strong architecture, purposeful interfaces, and a Linux-f
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=FF2A00&center=true&vCenter=true&width=900&lines=Software+Engineer+%2B+Creative+Developer;Java+21+%7C+Spring+Boot+%7C+ASP.NET+Core+%7C+Rust;Angular+19+%7C+React+%7C+Kotlin+%7C+TypeScript;Enterprise+Systems+%7C+Full-Stack+Architecture+%7C+Linux;Software+Architecture+%7C+Cybersecurity+%7C+Open+Source" alt="Animated Typing Banner" />
 </a>
 
-<br>
-
-`SOFTWARE` · `ARCHITECTURE` · `LINUX` · `OPEN SOURCE`
-
-</div>
-
----
-
 </div>
 
 # `01 — ABOUT`
